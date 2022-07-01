@@ -6,7 +6,7 @@ Key JavaScript concepts implemented:
 * arrays
 * document.getElementById()
 * document.querySelector()
-* addEventListner()
+* addEventListener()
 * document.body.style.backgroundColor()
 * Math.floor()
 * Math.random()
