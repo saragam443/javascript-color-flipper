@@ -12,4 +12,4 @@ Key JavaScript concepts implemented:
 * Math.random()
 * array.length()
 
-https://saragam443.github.io/javascript-color-flipper/
+https://saragam443.github.io/javascript-color-flipper/{:target="_blank"}
